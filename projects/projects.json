@@ -1,0 +1,109 @@
+[
+   
+  
+   
+   
+  {
+    "name": "NariShakti- Women’s safety App",
+    "desc": "NariShakti app with core features like live location tracking and emergency SMS alerts.",
+    "image": "narishakti",
+    "category": "basicweb",
+    "links": {
+      "view": "https://drive.google.com/file/d/1lWC1bNcgkjgPvLwpY9GCeuopr9kBbdas/view?usp=sharing",
+      "code": "https://drive.google.com/file/d/1lWC1bNcgkjgPvLwpY9GCeuopr9kBbdas/view?usp=sharing"
+    }
+  },
+  {
+    "name": "Daily Tracker Expense System ",
+    "desc": " web app that helps users log and categorize daily expenses. Includes user authentication, visual summaries, and filtering options. ",
+    "image": "expense",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+   
+   
+   
+
+  {
+    "name": "coffee Website",
+    "desc": "Designed a static coffee shop website using HTML and CSS with a visually appealing layout, responsive design, product sections, and custom branding.",
+    "image": "coffee",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chandugon.github.io/coffee",
+      "code": "https://github.com/dashboard"
+    }
+  },
+  {
+    "name": "E-Commerce",
+    "desc": "Built a full-stack eCommerce app using MERN with user login, product listing, cart management, secure checkout, and admin dashboard features.",
+    "image": "ecommerce",
+    "category": "mernstag",
+    "links": {
+      "view": "https://ecommerceapp-u8w2.onrender.com/",
+      "code": "https://github.com/akashsnikam/Ecommerceapp"
+    }
+  },
+  {
+    "name": "CS Wedding Planner",
+    "desc": "Designed a static wedding planner website using HTML, CSS, JS, and Bootstrap featuring service sections, gallery, contact form, and responsive design.",
+    "image": "wedding",
+    "category": "mernstag",
+    "links": {
+      "view": "https://akashsnikam.github.io/csweddingplaner/",
+      "code": "https://github.com/akashsnikam/cs-wedding-planner-"
+    }
+  },
+
+  {
+    "name": "TechnoChamp",
+    "desc": "Built an educational site to promote courses and training services with HTML, CSS, JS. Included testimonials, pricing, inquiry form, and mobile layout.",
+    "image": "techno",
+    "category": "basicweb",
+    "links": {
+      "view": "https://akashsnikam.github.io/TechnoChampSolution/",
+      "code": "https://github.com/akashsnikam"
+    }
+   
+  },
+  
+  
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+   
+  },
+{
+    "name": "Foodicious",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+   
+  }
+
+   
+]
